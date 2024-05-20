@@ -5,6 +5,8 @@ use ieee.numeric_std.all;
 entity ban_reg_tb is
 end ban_reg_tb;
 --teste
+
+-- teste 2
 architecture a_ban_reg_a of ban_reg_tb is
     component ban_reg is
         port ( read1, wrt         : in unsigned(2 downto 0);
