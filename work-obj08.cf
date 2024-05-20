@@ -1,0 +1,4 @@
+v 4
+file / "c:\Users\Rodrigo\OneDrive\Área de Trabalho\git_arqcomp\uProcessador\ban_reg_tb.vhd" "85508b97d774690d01da4a58b2988ae319118266" "20240520141710.471":
+  entity ban_reg_tb at 1( 0) + 0 on 11;
+  architecture a_ban_reg_a of ban_reg_tb at 8( 122) + 0 on 12;
